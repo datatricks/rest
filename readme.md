@@ -1,6 +1,6 @@
-#Cluster Management via REST API
+# Cluster Management via REST API
 
-##Setup
+## Setup
 
 ```
 pip install virtualenv
