@@ -1,0 +1,4 @@
+# Databricks notebook source
+dbc_user = '????'
+dbc_password = '????'
+dbc_host = 'https://????.cloud.databricks.com'
